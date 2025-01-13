@@ -1,0 +1,80 @@
+[
+  {
+    "ContainingType": "SubscriptionAPI.Controllers.SubscriptionController",
+    "Method": "Subscribe",
+    "RelativePath": "Subscription/Subscribe",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "subscribeRequest",
+        "Type": "Infrastructure.Contract.SubscribeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Infrastructure.Contract.SubscribeResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SubscriptionAPI.Controllers.SubscriptionController",
+    "Method": "SubscriptionSummary",
+    "RelativePath": "Subscription/SubscriptionSummary",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "subscriptionSummaryRequest",
+        "Type": "Infrastructure.Contract.SubscriptionSummaryRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Infrastructure.Repository.Entities.SubscriptionModel, Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SubscriptionAPI.Controllers.SubscriptionController",
+    "Method": "Unsubscribe",
+    "RelativePath": "Subscription/Unsubscribe",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "subscribeRequest",
+        "Type": "Infrastructure.Contract.SubscribeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Infrastructure.Contract.SubscribeResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

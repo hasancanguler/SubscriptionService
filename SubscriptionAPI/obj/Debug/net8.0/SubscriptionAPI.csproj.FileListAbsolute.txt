@@ -1,0 +1,82 @@
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\appsettings.json
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\SubscriptionAPI.exe
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\SubscriptionAPI.deps.json
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\SubscriptionAPI.runtimeconfig.json
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\SubscriptionAPI.dll
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\SubscriptionAPI.pdb
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\SubscriptionAPI.csproj.AssemblyReference.cache
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\SubscriptionAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\SubscriptionAPI.AssemblyInfoInputs.cache
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\SubscriptionAPI.AssemblyInfo.cs
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\SubscriptionAPI.csproj.CoreCompileInputs.cache
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\SubscriptionAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\SubscriptionAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\staticwebassets\msbuild.SubscriptionAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.SubscriptionAPI.props
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SubscriptionAPI.props
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SubscriptionAPI.props
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\scopedcss\bundle\SubscriptionAPI.styles.css
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\Subscrip.3E58D8A9.Up2Date
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\SubscriptionAPI.dll
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\refint\SubscriptionAPI.dll
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\SubscriptionAPI.pdb
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\SubscriptionAPI.genruntimeconfig.cache
+C:\Working\Interview assessment\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\ref\SubscriptionAPI.dll
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\appsettings.json
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\SubscriptionAPI.staticwebassets.endpoints.json
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\SubscriptionAPI.exe
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\SubscriptionAPI.deps.json
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\SubscriptionAPI.runtimeconfig.json
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\SubscriptionAPI.dll
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\SubscriptionAPI.pdb
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\SubscriptionAPI.csproj.AssemblyReference.cache
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\SubscriptionAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\SubscriptionAPI.AssemblyInfoInputs.cache
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\SubscriptionAPI.AssemblyInfo.cs
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\SubscriptionAPI.csproj.CoreCompileInputs.cache
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\SubscriptionAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\SubscriptionAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\scopedcss\bundle\SubscriptionAPI.styles.css
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\staticwebassets\msbuild.SubscriptionAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\staticwebassets\msbuild.SubscriptionAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.SubscriptionAPI.props
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SubscriptionAPI.props
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SubscriptionAPI.props
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\Subscrip.3E58D8A9.Up2Date
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\SubscriptionAPI.dll
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\refint\SubscriptionAPI.dll
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\SubscriptionAPI.pdb
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\SubscriptionAPI.genruntimeconfig.cache
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\obj\Debug\net8.0\ref\SubscriptionAPI.dll
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\Infrastructure.dll
+C:\Project\CreativeClicks\SubscriptionAPI\SubscriptionAPI\bin\Debug\net8.0\Infrastructure.pdb
