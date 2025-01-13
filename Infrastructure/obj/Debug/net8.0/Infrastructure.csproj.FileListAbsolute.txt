@@ -1,0 +1,12 @@
+C:\Project\CreativeClicks\SubscriptionAPI\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Project\CreativeClicks\SubscriptionAPI\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Project\CreativeClicks\SubscriptionAPI\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Project\CreativeClicks\SubscriptionAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Project\CreativeClicks\SubscriptionAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\CreativeClicks\SubscriptionAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Project\CreativeClicks\SubscriptionAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Project\CreativeClicks\SubscriptionAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Project\CreativeClicks\SubscriptionAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Project\CreativeClicks\SubscriptionAPI\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Project\CreativeClicks\SubscriptionAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Project\CreativeClicks\SubscriptionAPI\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
